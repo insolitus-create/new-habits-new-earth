@@ -540,7 +540,7 @@ const ErasmusEcoApp = () => {
           className="mt-6 bg-green-600 text-white py-2 px-4 rounded-lg w-full hover:bg-green-700 transition-colors"
           onClick={() => setScreen('home')}
         >
-          Back to Home
+          Back to main menu
         </button>
       </div>
     </div>
