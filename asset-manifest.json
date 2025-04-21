@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/new-habits-new-earth/static/css/main.e6c13ad2.css",
-    "main.js": "/new-habits-new-earth/static/js/main.3ef14d2b.js",
+    "main.js": "/new-habits-new-earth/static/js/main.2f4fa051.js",
     "static/js/453.5e9375b1.chunk.js": "/new-habits-new-earth/static/js/453.5e9375b1.chunk.js",
     "index.html": "/new-habits-new-earth/index.html",
     "main.e6c13ad2.css.map": "/new-habits-new-earth/static/css/main.e6c13ad2.css.map",
-    "main.3ef14d2b.js.map": "/new-habits-new-earth/static/js/main.3ef14d2b.js.map",
+    "main.2f4fa051.js.map": "/new-habits-new-earth/static/js/main.2f4fa051.js.map",
     "453.5e9375b1.chunk.js.map": "/new-habits-new-earth/static/js/453.5e9375b1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.3ef14d2b.js"
+    "static/js/main.2f4fa051.js"
   ]
 }
